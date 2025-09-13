@@ -1,2 +1,2 @@
 # post_blog
-Tech Blog -Tech-focused blog built with Laravel and Tailwind CSS, featuring post creation, editing, and user authentication, it demonstrating CRUD functionality, authentication, and responsive design.Main features -Laravel backend , CRUD functionality , user authentication and  responsive design .
+ Blog Post is a Laravel-powered web application that demonstrates core web development skills. It features full CRUD functionality for posts, user authentication, and a responsive design built with Bootstrap and Tailwind CSS. This project serves as a practical showcase of backend logic, database management, and frontend integration in a modern PHP framework.
